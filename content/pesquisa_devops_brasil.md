@@ -1,6 +1,6 @@
 ---
 title: "Pesquisa DevOps"
-date: 2019-04-21T11:04:24-03:00
+date: 2019-05-10T11:04:24-03:00
 draft: false
 comments: false
 images:

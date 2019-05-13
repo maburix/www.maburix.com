@@ -29,7 +29,7 @@ Considerando a definição no início do texto sobre DevOps, ele também não po
 
 Contudo, há uma maneira de ver DevOps como parte indireta das entregas como parte de Requisitos Não Funcionais quando aplicado a ferramentas/serviços ou arquitetura de sistema. Exemplo:
 
-`Uma aplicação de autorização de compra de um E-Commerce deve ser resiliente, ter a maior disponibilidade possível e desempenho para suportar picos de tráfego como Black Friday e campanhas promocionais. Uma das abordagens para entregar seria usar Orquestradores de containers como Kubernetes instalado em diferentes datacenters, ou melhor, em diferentes regiões de disponibilidade se o E-Commerce estiver num IaaS, o site também deverá adotar arquitetura de Micro Serviços, criptografia end-to-end, etc.`
+***Uma aplicação de autorização de compra de um E-Commerce deve ser resiliente, ter a maior disponibilidade possível e desempenho para suportar picos de tráfego como Black Friday e campanhas promocionais. Uma das abordagens para entregar seria usar Orquestradores de containers como Kubernetes instalado em diferentes datacenters, ou melhor, em diferentes regiões de disponibilidade se o E-Commerce estiver num IaaS, o site também deverá adotar arquitetura de Micro Serviços, criptografia end-to-end, etc.***
 
 Considerando que a organização estipulou algumas métrica para o E-Commerce de:
 

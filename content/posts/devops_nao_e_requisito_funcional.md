@@ -1,6 +1,6 @@
 ---
 title: "DevOps não é Requisito Funcional e nem Requisito Não Funcional"
-date: 2019-05-13T14:45:30-03:00
+date: 2019-05-13T11:45:30-03:00
 draft: false
 toc: false
 images:

@@ -5,6 +5,7 @@ draft: false
 comments: false
 images:
 ---
+![](/images/statistic.png)
 
 # Por que uma pesquisa sobre DevOps no Brasil?
 

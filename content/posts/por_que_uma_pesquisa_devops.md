@@ -1,7 +1,7 @@
 ---
 title: "Por que mais uma pesquisa sobre DevOps?"
 date: 2019-05-10T16:23:58-03:00
-draft: true
+draft: false
 toc: false
 images:
 tags: 

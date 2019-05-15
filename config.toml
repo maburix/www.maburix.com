@@ -68,7 +68,7 @@ googleAnalytics         = "UA-127785905-1"             # Tracking code, eg. "UA-
 
   [[menu.main]]
     name = "Pesquisa DevOps Brasil"
-    url = "pequisa_devops_brasil/"
+    url = "pesquisa_devops_brasil/"
     weight = 20
 
   [[menu.main]]

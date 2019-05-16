@@ -9,7 +9,7 @@ images:
 
 # Por que uma pesquisa sobre DevOps no Brasil?
 
-As pesquisas da DORA ou Puppet são de abrangência mundial e amostragem da pesquisa para América Latina e consequentemente Brasil é muito pequena. Acreditamos que a implantação de DevOps na região tem algumas particularidades e gostaríamos de identificá-las. Também gostaríamos de identificar como as organizações estão implentando os conceitos como Cloud Native Application, Blameless Postmortem, Observability, e técnicas de Engenharia de Software (SRE) em Infraestrutura ou Operações de TI. Outra coisa que gostaríamos de compreende é como a saúde mental é tratada nas organizações. 
+As pesquisas da DORA ou Puppet são de abrangência mundial e amostragem da pesquisa para América Latina e consequentemente Brasil é muito pequena. Acreditamos que a implantação de DevOps na região tem algumas particularidades e gostaríamos de identificá-las. Também gostaríamos de identificar como as organizações estão implementando os conceitos como Cloud Native Application, Blameless Postmortem, Observability, e técnicas de Engenharia de Software (SRE) em Infraestrutura ou Operações de TI. Outra coisa que gostaríamos de compreender é como a saúde mental é tratada nas organizações. 
 
 Como você pode colaborar? 
 

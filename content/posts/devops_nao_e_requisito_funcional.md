@@ -45,3 +45,5 @@ Considerando que a organização estipulou algumas métrica para o E-Commerce de
 Os Requisitos Não Funcionais solicitados pelo E-Commerce estão diretamente relacionado à várias ferramentas, serviços e conceitos que tornaram-se populares com DevOps. Apesar dele não ser considerado diretamente como parte de Requisitos Funcionais e Não Funcionais, DevOps influenciam diretamente a entrega deles para os usuários/clientes com potencial de maior qualidade, resiliência, disponibilidade e segurança usando diversas ferramentas, métodos e técnicas relacionadas a DevOps.
 
 Comentem. :)
+
+Autor: [Fernando Ike](www.twitter.com/fernandoike)

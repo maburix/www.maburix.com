@@ -18,3 +18,4 @@ Dúvidas sobre a pesquisa ou ajudar na divulgação, entre em contato:
 
 - https://www.maburix.com/contact/
 
+Autor: [Fernando Ike](www.twitter.com/fernandoike)

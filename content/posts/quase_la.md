@@ -10,3 +10,5 @@ tags:
 Estamos quase lá...
 
 ![](/images/previa_pesquisa_devops.png)
+
+Autor: [Fernando Ike](www.twitter.com/fernandoike)

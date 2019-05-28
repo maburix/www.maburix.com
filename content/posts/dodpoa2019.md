@@ -22,3 +22,5 @@ Se quiser saber um pouco mais como foi a apresentação, basta ver aqui embaixo.
 <script async class="speakerdeck-embed" data-id="5e83d38966c74a8da0eaeb24ae0f7bc4" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 Esta apresentação é baseada no texto "[A depressão e a TI](https://medium.com/@fernandoike/a-depressao-e-a-tecnologia-da-informa%C3%A7%C3%A3o-9d8f0ecc660)"
+
+Autor: [Fernando Ike](www.twitter.com/fernandoike)

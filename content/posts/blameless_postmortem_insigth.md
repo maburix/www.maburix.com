@@ -27,3 +27,5 @@ Ao final lembre-se, a relatório do incidente tem o propósito de descrever um i
 
 Isto é parte essencial para uma organização torna-se do tipo Geradora na classificação de Cultura Organizacional do Ron Westrum.
 0 replies 0 retweets 2 likes
+
+Autor: [Fernando Ike](www.twitter.com/fernandoike)

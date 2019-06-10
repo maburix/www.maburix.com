@@ -11,7 +11,7 @@ tags:
   - postmortem
 ---
 
-No dia 23 realizamos o primeiro Workshop sobre **Blameless Postmortem** na Faculdade Senai de Porto Alegre em parceria com o [Meetup DevOps/SRE](https://www.meetup.com/pt-BR/DevOps-SRE-Porto-Alegre/events/260669031/?eventId=260669031&from=ref), usamos como um caso um acidente de avião. Foi muito interessante ver como as pessoas já tem a tendência, ou viés, de apontar culpados antes mesmo de uma primeira análise. Para entender o que aconteceu com o acidente de avião e quais foram as causas foram usados alguns conceitos importantes de serem aplicados em situações de incidente na TI como Pensamento Sistêmico (System Thinking), Sistemas Complexos, PDSA](https://deming.org/explore/p-d-s-a) e Engenharia de Resiliência.
+No dia 23 realizamos o primeiro Workshop sobre **Blameless Postmortem** na Faculdade Senai de Porto Alegre em parceria com o [Meetup DevOps/SRE](https://www.meetup.com/pt-BR/DevOps-SRE-Porto-Alegre/events/260669031/?eventId=260669031&from=ref), usamos como um caso um acidente de avião. Foi muito interessante ver como as pessoas já tem a tendência, ou viés, de apontar culpados antes mesmo de uma primeira análise. Para entender o que aconteceu com o acidente de avião e quais foram as causas foram usados alguns conceitos importantes de serem aplicados em situações de incidente na TI como Pensamento Sistêmico (System Thinking), Sistemas Complexos, [PDSA](https://deming.org/explore/p-d-s-a) e Engenharia de Resiliência.
 
 ![](/images/workshop_blameless_dodpoa2019_1.jpg)
 
